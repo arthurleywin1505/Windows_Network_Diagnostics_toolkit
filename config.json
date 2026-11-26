@@ -1,0 +1,7 @@
+{
+  "dns_test_host": "example.com",
+  "internet_test_host": "1.1.1.1",
+  "latency_target": "1.1.1.1",
+  "ping_count": 4,
+  "timeout_ms": 1500
+}
